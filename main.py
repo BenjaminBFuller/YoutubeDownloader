@@ -1,6 +1,9 @@
+# YouTube to mp3 converter script
+# Possible projects:
+# GUI, convert to wav, add options for video download,
+# Custom directory, add pytube exceptions
+
 from pytube import YouTube
-
-
 # from pytube.exceptions import VideoUnavailable
 
 
