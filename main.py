@@ -2,6 +2,7 @@
 # Possible projects:
 # GUI, convert to wav, add options for video download,
 # Custom directory, add pytube exceptions
+# Song to stems all-in-one direct application
 
 from pytube import YouTube
 # from pytube.exceptions import VideoUnavailable
